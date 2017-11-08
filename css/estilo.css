@@ -1,0 +1,17 @@
+.objeto {
+    width: 150px;
+    height: 150px;
+    background-color: #000000;
+    position: absolute;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+.verde {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(159, 231, 43);
+    position: absolute;
+    cursor: pointer;
+    border-radius: 25px;
+}
